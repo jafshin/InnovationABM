@@ -65,9 +65,9 @@ Model parameters are listed in the following table.
 
 **Imitation**. -- Agents will imitate each others' strategy who are connected to them. In each time step, with the probability of u, agents' strategy will be reconsidered. The imitation process is as follows: suppose agent i is deciding agent and is connected to n<sub>1</sub> Ordinary agents with fitness f<sub>1</sub> and n<sub>2</sub> innovative agents with fitness f<sub>2</sub>. Then
 
-![a test](/home/jafshin/Dropbox/InnovationPaper/CodeCogsEqn1.gif),
+![a test](CodeCogsEqn1.gif),
 
-![a test](/home/jafshin/Dropbox/InnovationPaper/CodeCogsEqn2.gif)
+![a test](CodeCogsEqn2.gif)
 
 where  p<sub>0</sub> is the probability of selecting Ordinary state and p<sub>1</sub> is probability of selecting Innovative state.
 
@@ -88,7 +88,7 @@ The model is consisted of two agent types (Main and myAgents) and one experiment
 
 By running the simulation, following window will appear:
 
-![Simulation Window](/home/jafshin/Dropbox/InnovationPaper/SimulationWindow.png)
+![Simulation Window](SimulationWindow.png)
 
 In this window, key parameters of the model can be modified. In this window users are also able to select network type and different experiment as described in the paper.
 
